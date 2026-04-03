@@ -1,0 +1,31 @@
+# HTTP Basics
+
+## Definition
+HTTP (HyperText Transfer Protocol) is used for communication between client and server.
+
+## Why it matters
+All APIs and integrations use HTTP to send and receive data.
+
+## Real Example
+When you open a website:
+Browser sends request → Server sends response
+
+## Key Points
+- Stateless protocol
+- Request/Response model
+- Common methods:
+  - GET → Read data
+  - POST → Create data
+  - PUT → Update data
+  - DELETE → Remove data
+
+##HTTPS status codes 
+200--Ok success 
+201--created and new record made 
+400--Bad request (client side problem)
+401--wrong password (Authentation failed)
+500--Server error 
+-
+-
+-
+
